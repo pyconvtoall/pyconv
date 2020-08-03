@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pyconv
+Version: 0.0.2
+Summary: A package to convert your Jupyter Notebook
+Home-page: https://github.com/pyconvtoall/pyconv
+Author: Stefen Mbiombani
+Author-email: mbiombanistefen@gmail.com
+License: UNKNOWN
+Description: # pyconv
+         convert a Jupyter notebook into an HTML file or a Python script.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
